@@ -1,0 +1,247 @@
+
+body{
+  background-image: url("https://wallpapercave.com/wp/wp9794432.jpg");
+}
+
+.content{
+    
+    width: 45%;
+    margin: auto;
+    
+    
+    
+
+
+
+}
+.example{
+    width: 600px;
+    height: 71px;
+    padding: 15px;
+    background-color:rgb(192, 5, 5);
+    margin:auto;
+    font-family: 'Courier New', Courier, monospace;
+  
+}
+
+h1{
+
+    color: rgb(255, 255, 255);
+}
+
+p{
+    font-size: 22px;
+   
+}
+
+h3{
+
+    font-size: 28px;
+}
+
+.grey{
+    margin-left:auto;
+    margin-right:auto;
+    width: 800px; 
+    padding:15px;
+    background-color: rgba(245, 245, 245, 0.85);
+    margin:auto;
+   
+}
+
+ul {
+    list-style-type: none;
+   margin-top: -10px;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+   
+    padding: 0;
+    overflow: hidden;
+    background-image: url("https://th.bing.com/th/id/OIP.GKYpB9s7pzVa06TtFgCvhQHaE7?w=626&h=417&rs=1&pid=ImgDetMain");
+    width:100%;
+  }
+  
+  li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color:  #222
+  }
+
+header{
+  padding-top: -50px;
+    
+    width: 100%;
+}
+
+.about{
+  width:400px;
+  
+
+  padding: 10px;
+  background-color: rgb(192, 5, 5);
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.Gege{
+
+  float: left;
+  padding-right: 20px;
+  padding-top: 0px;
+}
+.center{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+}
+
+.center2{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+padding-left: 100px;
+}
+
+.author{
+  width:350px;
+  text-align: center;
+
+
+  padding: 5px;
+  background-color: rgb(192, 5, 5);
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.trailer{
+
+  width:300px;
+  text-align: center;
+
+
+  padding: 2px;
+  background-color: rgb(192, 5, 5);
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.trailerSpace{
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.textcenter{
+margin: auto;
+text-align: center;
+}
+
+.spaceBelow{
+
+  padding-bottom: 20px;
+}
+
+.space2{
+
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.summary{
+  width:200px;
+  text-align: center;
+
+
+  padding: 1px;
+  background-color: rgb(192, 5, 5);
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.hunter{
+
+  float: left;
+  padding-right: 20px;
+  padding-top: -100px;
+}
+
+.center{
+
+  margin: left;
+  text-align: center;
+  padding-right: 80px;
+}
+
+.galleryWhite{
+  margin-left:auto;
+    margin-right:auto;
+    width: 1600px; 
+    padding:15px;
+    background-color: rgba(245, 245, 245, 0.85);
+    margin:auto;
+
+}
+
+.sidebar{
+width: 150px;
+padding:35px;
+background-color: rgba(255, 255, 255, 0.493);
+border:10px solid maroon;
+margin:10px left;
+position:fixed;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.floatGojo{
+  padding-top: 30px;
+  float: right;
+  padding: 15px;
+}
+
+.floatLeft{
+
+  padding-top: 10px;
+  float: left;
+  padding: 15px;
+}
+
+table, th, td {
+  border: 5px solid maroon;
+  border-collapse: collapse;
+}
+td{
+  padding-top: 5px;
+}
+
+.gallery img{
+  width: 375px;
+  height:225px;
+
+}
+
+table{
+
+  margin: auto;
+}
+
+.building{
+
+  float: right;
+}
